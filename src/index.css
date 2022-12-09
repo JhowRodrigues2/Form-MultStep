@@ -1,0 +1,24 @@
+* {
+  font-family: "Barlow", sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: #333;
+}
+p {
+  color: #777;
+}
+body {
+  background-color: #f9fafc;
+}
+input,
+textarea {
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0;
+  padding: 0.6rem;
+  border: none;
+  border-radius: 3px;
+}
+
+textarea {
+  height: 120px;
+}
